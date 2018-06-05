@@ -27,9 +27,15 @@ function logWhisper(string)
 // return a specific answer to a specific question 
 function sayHiToGrandma(string)
 {
-  if(string === string.toLowerCase)
+  if(string === string.toLowerCase())
   {
     string = "I can't hear you!"
+    return string
+  }
+  
+  if(string ===string.toUpperCase())
+  {
+    string = "YES INDEED!"
     return string
   }
   if(string === "I love you, Grandma.")
