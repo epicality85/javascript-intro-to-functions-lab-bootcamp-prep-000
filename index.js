@@ -12,13 +12,13 @@ function whisper(string)
   return string.toLowerCase()
 }
 
-// returns a console log in uppercase if string in lower case
+// returns a console log in upper case
 function logShout(string)
 {
   return console.log(string.toUpperCase())
 }
 
-// returns a console log in lower case if its in upper case
+// returns a console log in lower case
 function logWhisper(string)
 {
   return console.log(string.toLowerCase())
