@@ -15,7 +15,10 @@ function whisper(string)
 // 
 function logShout(string)
 {
-  
+  if(string.toUpperCase() === string)
+  {
+    
+  }
 }
 
 // 
