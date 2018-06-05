@@ -15,10 +15,7 @@ function whisper(string)
 // 
 function logShout(string)
 {
-  if(string.toUpperCase() === string)
-  {
-    
-  }
+  
 }
 
 // 
@@ -30,5 +27,8 @@ function logWhisper(string)
 // return a specific answer to a specific question 
 function sayHiToGrandma(string)
 {
-  
+  if(string.toUpperCase() === string)
+  {
+    
+  }
 }
