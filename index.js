@@ -17,3 +17,15 @@ function logShout(string)
 {
   
 }
+
+// 
+function logWhisper(string)
+{
+  
+}
+
+// return a specific answer to a specific question 
+function sayHiToGrandma(string)
+{
+  
+}
