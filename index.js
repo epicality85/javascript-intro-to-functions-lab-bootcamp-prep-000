@@ -1,5 +1,4 @@
 function shout(string)
 {
-  .toUpperCase()
-  return string
+  return string.toUpperCase() // simplify to one call, not: string = string.blah(), return string
 }
