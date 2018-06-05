@@ -32,7 +32,7 @@ function sayHiToGrandma(string)
     string = "I can't hear you!"
     return string
   }
-  if(string === "I love you")
+  if(string === "I love you, Grandma.")
   {
     
   }
